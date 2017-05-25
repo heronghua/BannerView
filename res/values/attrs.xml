@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable
+        name="BannerView">
+        <attr name="flipInterval" format="integer"/>
+        <attr name="autoStart" format="boolean"/>
+    </declare-styleable>
+</resources>
